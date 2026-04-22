@@ -19,7 +19,12 @@ I believe that great software is invisible: it just works, scales, and stays mai
 
 ## `> ls ./projects`
 
-<h3><img src="https://raw.githubusercontent.com/amletoflorio/CallBlocker/master/images/logo.svg" alt="CallBlocker Icon" width="30" height="30"> <a href="https://github.com/amletoflorio/CallBlocker">CallBlocker</a></h3>
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/amletoflorio/CallBlocker/master/images/logo.svg" alt="CallBlocker Icon" width="30" height="30"></td>
+<td><h3><a href="https://github.com/amletoflorio/CallBlocker">CallBlocker</a></h3></td>
+</tr>
+</table>
 
 > *Privacy-first call filtering for Android*
 
@@ -30,18 +35,13 @@ A **whitelist-based call blocker** for Android that puts privacy first. Only con
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/amletoflorio/Mailias/master/public/favicon.svg" alt="Mailias Icon" width="30" height="30"> <a href="https://github.com/amletoflorio/Mailias">Mailias</a></h3>
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/amletoflorio/Mailias/master/public/favicon.svg" alt="Mailias Icon" width="30" height="30"></td>
+<td><h3><a href="https://github.com/amletoflorio/Mailias">Mailias</a></h3></td>
+</tr>
+</table>
 
-> *Self-hosted email alias manager*
-
-A **self-hosted web app** for managing Cloudflare Email Routing aliases. Send and receive emails from any alias through a clean, mobile-friendly interface — secured with Pocket ID authentication.
-
-![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
----
-
-### <img src="https://raw.githubusercontent.com/amletoflorio/Mailias/master/public/favicon.svg" alt="Mailias Icon" width="30" height="30">  [Mailias](https://github.com/amletoflorio/Mailias)
 > *Self-hosted email alias manager*
 
 A **self-hosted web app** for managing Cloudflare Email Routing aliases. Send and receive emails from any alias through a clean, mobile-friendly interface — secured with Pocket ID authentication.

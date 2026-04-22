@@ -19,7 +19,7 @@ I believe that great software is invisible: it just works, scales, and stays mai
 
 ## `> ls ./projects`
 
-### 📵 [CallBlocker](https://github.com/amletoflorio/CallBlocker)
+### <img src="https://raw.githubusercontent.com/amletoflorio/CallBlocker/master/images/logo.svg" alt="CallBlocker Icon" width="30" height="30"> [CallBlocker](https://github.com/amletoflorio/CallBlocker)
 > *Privacy-first call filtering for Android*
 
 A **whitelist-based call blocker** for Android that puts privacy first. Only contacts and explicitly approved numbers can reach you — everything else is silently blocked. No ads, no tracking, no cloud dependency.
@@ -29,7 +29,7 @@ A **whitelist-based call blocker** for Android that puts privacy first. Only con
 
 ---
 
-### 📧 [Mailias](https://github.com/amletoflorio/Mailias)
+### <img src="https://raw.githubusercontent.com/amletoflorio/Mailias/master/public/favicon.svg" alt="Mailias Icon" width="30" height="30">  [Mailias](https://github.com/amletoflorio/Mailias)
 > *Self-hosted email alias manager*
 
 A **self-hosted web app** for managing Cloudflare Email Routing aliases. Send and receive emails from any alias through a clean, mobile-friendly interface — secured with Pocket ID authentication.

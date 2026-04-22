@@ -19,13 +19,25 @@ I believe that great software is invisible: it just works, scales, and stays mai
 
 ## `> ls ./projects`
 
-### <img src="https://raw.githubusercontent.com/amletoflorio/CallBlocker/master/images/logo.svg" alt="CallBlocker Icon" width="30" height="30"> [CallBlocker](https://github.com/amletoflorio/CallBlocker)
+<h3><img src="https://raw.githubusercontent.com/amletoflorio/CallBlocker/master/images/logo.svg" alt="CallBlocker Icon" width="30" height="30"> <a href="https://github.com/amletoflorio/CallBlocker">CallBlocker</a></h3>
+
 > *Privacy-first call filtering for Android*
 
 A **whitelist-based call blocker** for Android that puts privacy first. Only contacts and explicitly approved numbers can reach you — everything else is silently blocked. No ads, no tracking, no cloud dependency.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+<h3><img src="https://raw.githubusercontent.com/amletoflorio/Mailias/master/public/favicon.svg" alt="Mailias Icon" width="30" height="30"> <a href="https://github.com/amletoflorio/Mailias">Mailias</a></h3>
+
+> *Self-hosted email alias manager*
+
+A **self-hosted web app** for managing Cloudflare Email Routing aliases. Send and receive emails from any alias through a clean, mobile-friendly interface — secured with Pocket ID authentication.
+
+![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 ---
 

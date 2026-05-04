@@ -55,14 +55,19 @@ A **self-hosted web app** for managing Cloudflare Email Routing aliases. Send an
 
 <table>
   <tr>
-    <td align="center" width="200">
+    <td align="center" width="50%">
       <a href="https://certificates.cs50.io/a145dad0-3c00-4073-a352-72948f7d3b86.pdf?size=letter">
-        <img src="https://img.shields.io/badge/Harvard_University-A41034?style=for-the-badge&logo=harvard&logoColor=white" alt="Harvard"/>
+        <img src="https://img.shields.io/badge/Harvard_University-A41034?style=for-the-badge&logo=harvard&logoColor=white" />
       </a>
-      <br/><br/>
-      <strong>CS50's Introduction to Computer Science</strong>
-      <br/><br/>
-      <sub>Foundations of programming, algorithms, data structures, web development, and computational thinking — the gold standard intro CS course.</sub>
+      <h3>CS50's Introduction to Computer Science</h3>
+      <p>Foundations of programming, algorithms, data structures, web development, and computational thinking.</p>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://certificates.cs50.io/3d0dc09a-b214-4ddf-82a7-3d615697f434.pdf?size=letter">
+        <img src="https://img.shields.io/badge/Harvard_University-A41034?style=for-the-badge&logo=harvard&logoColor=white" />
+      </a>
+      <h3>CS50's Introduction to Programming with Python</h3>
+      <p>Python, problem solving, testing, debugging, OOP, file handling and more.</p>
     </td>
   </tr>
 </table>

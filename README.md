@@ -11,13 +11,28 @@
 
 ## `> whoami`
 
-Backend engineer with a deep focus on **reliability, scalability, and clean architecture**. I design and build systems that handle real-world complexity — from high-throughput APIs to enterprise-grade platforms.
+Backend engineer with a deep focus on **reliability, scalability, and clean architecture**. I design and build systems that handle real-world complexity - from high-throughput APIs to enterprise-grade platforms.
 
 I believe that great software is invisible: it just works, scales, and stays maintainable over time.
 
 ---
 
 ## `> ls ./projects`
+
+<table>
+<tr>
+<td><img src="https://raw.githubusercontent.com/amletoflorio/Gecko-Care/master/images/logo.png" alt="Gecko Care Icon" width="30" height="30"></td>
+<td><h3><a href="https://github.com/amletoflorio/Gecko-Care">Gecko Care</a></h3></td>
+</tr>
+</table>
+
+> *The complete offline care diary for leopard geckos*
+
+An **offline-first Android app** for keeping leopard geckos: feeding logs with mixed meals and supplement tracking, growth and shed history, enclosure environment readings, expenses and custom reminders. No account, no cloud - everything stays on the device.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-47A248?style=flat-square&logo=sqlite&logoColor=white)
 
 <table>
 <tr>
@@ -28,7 +43,7 @@ I believe that great software is invisible: it just works, scales, and stays mai
 
 > *Privacy-first call filtering for Android*
 
-A **whitelist-based call blocker** for Android that puts privacy first. Only contacts and explicitly approved numbers can reach you — everything else is silently blocked. No ads, no tracking, no cloud dependency.
+A **whitelist-based call blocker** for Android that puts privacy first. Only contacts and explicitly approved numbers can reach you - everything else is silently blocked. No ads, no tracking, no cloud dependency.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -44,7 +59,7 @@ A **whitelist-based call blocker** for Android that puts privacy first. Only con
 
 > *Self-hosted email alias manager*
 
-A **self-hosted web app** for managing Cloudflare Email Routing aliases. Send and receive emails from any alias through a clean, mobile-friendly interface — secured with Pocket ID authentication.
+A **self-hosted web app** for managing Cloudflare Email Routing aliases. Send and receive emails from any alias through a clean, mobile-friendly interface - secured with Pocket ID authentication.
 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)

@@ -19,14 +19,9 @@ I believe that great software is invisible: it just works, scales, and stays mai
 
 ## `> ls ./projects`
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/amletoflorio/Gecko-Care/master/images/logo.png" alt="Gecko Care Icon" width="30" height="30"></td>
-<td><h3><a href="https://github.com/amletoflorio/Gecko-Care">Gecko Care</a></h3></td>
-</tr>
-</table>
-
-> *The complete offline care diary for leopard geckos*
+<details open>
+<summary><img src="https://raw.githubusercontent.com/amletoflorio/Gecko-Care/master/images/logo.png" width="20" height="20" style="vertical-align:middle">&nbsp; <b>Gecko Care</b> - <i>The complete offline care diary for leopard geckos</i></summary>
+<br>
 
 An **offline-first Android app** for keeping leopard geckos: feeding logs with mixed meals and supplement tracking, growth and shed history, enclosure environment readings, expenses and custom reminders. No account, no cloud - everything stays on the device.
 
@@ -34,57 +29,47 @@ An **offline-first Android app** for keeping leopard geckos: feeding logs with m
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 ![Room](https://img.shields.io/badge/Room-47A248?style=flat-square&logo=sqlite&logoColor=white)
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/amletoflorio/CallBlocker/master/images/logo.svg" alt="CallBlocker Icon" width="30" height="30"></td>
-<td><h3><a href="https://github.com/amletoflorio/CallBlocker">CallBlocker</a></h3></td>
-</tr>
-</table>
+<p align="right"><a href="https://github.com/amletoflorio/Gecko-Care">→ View repository</a></p>
+</details>
 
-> *Privacy-first call filtering for Android*
+<details>
+<summary><img src="https://raw.githubusercontent.com/amletoflorio/CallBlocker/master/images/logo.svg" width="20" height="20" style="vertical-align:middle">&nbsp; <b>CallBlocker</b> - <i>Privacy-first call filtering for Android</i></summary>
+<br>
 
 A **whitelist-based call blocker** for Android that puts privacy first. Only contacts and explicitly approved numbers can reach you - everything else is silently blocked. No ads, no tracking, no cloud dependency.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
----
+<p align="right"><a href="https://github.com/amletoflorio/CallBlocker">→ View repository</a></p>
+</details>
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/amletoflorio/Mailias/master/public/favicon.svg" alt="Mailias Icon" width="30" height="30"></td>
-<td><h3><a href="https://github.com/amletoflorio/Mailias">Mailias</a></h3></td>
-</tr>
-</table>
-
-> *Self-hosted email alias manager*
+<details>
+<summary><img src="https://raw.githubusercontent.com/amletoflorio/Mailias/master/public/favicon.svg" width="20" height="20" style="vertical-align:middle">&nbsp; <b>Mailias</b> - <i>Self-hosted email alias manager</i></summary>
+<br>
 
 A **self-hosted web app** for managing Cloudflare Email Routing aliases. Send and receive emails from any alias through a clean, mobile-friendly interface - secured with Pocket ID authentication.
 
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
+<p align="right"><a href="https://github.com/amletoflorio/Mailias">→ View repository</a></p>
+</details>
+
 ---
 
 ## `> cat ./credentials`
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://certificates.cs50.io/a145dad0-3c00-4073-a352-72948f7d3b86.pdf?size=letter">
-        <img src="https://img.shields.io/badge/Harvard_University-A41034?style=for-the-badge&logo=harvard&logoColor=white" />
-      </a>
-      <h3>CS50's Introduction to Computer Science</h3>
-      <p>Foundations of programming, algorithms, data structures, web development, and computational thinking.</p>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://certificates.cs50.io/3d0dc09a-b214-4ddf-82a7-3d615697f434.pdf?size=letter">
-        <img src="https://img.shields.io/badge/Harvard_University-A41034?style=for-the-badge&logo=harvard&logoColor=white" />
-      </a>
-      <h3>CS50's Introduction to Programming with Python</h3>
-      <p>Python, problem solving, testing, debugging, OOP, file handling and more.</p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Harvard_University-A41034?style=for-the-badge&logo=harvard&logoColor=white" />
+</p>
+
+**CS50: Introduction to Computer Science**
+Foundations of programming, algorithms, data structures, web development, and computational thinking.
+[View certificate →](https://certificates.cs50.io/a145dad0-3c00-4073-a352-72948f7d3b86.pdf?size=letter)
+
+**CS50: Introduction to Programming with Python**
+Python, problem solving, testing, debugging, OOP, file handling and more.
+[View certificate →](https://certificates.cs50.io/3d0dc09a-b214-4ddf-82a7-3d615697f434.pdf?size=letter)
 
 ---

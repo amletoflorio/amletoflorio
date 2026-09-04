@@ -20,6 +20,22 @@ I believe that great software is invisible: it just works, scales, and stays mai
 ## `> ls ./projects`
 
 <details open>
+<summary><img src="https://rapidapi-prod-apis.s3.amazonaws.com/6133a7a2-590c-4b6c-a022-df9ae5824079.jpg" width="20" height="20" style="vertical-align:middle">&nbsp; <b>Mail Shield</b> - <i>Real-time spam & phishing email classification API</i></summary>
+<br>
+
+A **machine-learning-powered REST API** for classifying emails as spam or legitimate: combines TF-IDF text analysis with engineered signals (suspicious URL ratio, urgency keywords, caps ratio, exclamation density) to score each email. Auto-selects the best model (Naive Bayes, Logistic Regression, Random Forest) via cross-validation. No email content stored - classification happens in memory, per request.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</details>
+
+<p align="right"><a href="https://github.com/amletoflorio/MailShield">→ View repository</a></p>
+</details>
+
+<details>
 <summary><img src="https://raw.githubusercontent.com/amletoflorio/Gecko-Care/master/images/logo.png" width="20" height="20" style="vertical-align:middle">&nbsp; <b>Gecko Care</b> - <i>The complete offline care diary for leopard geckos</i></summary>
 <br>
 

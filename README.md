@@ -30,9 +30,9 @@ A **machine-learning-powered REST API** for classifying emails as spam or legiti
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
+<p align="right"><a href="https://github.com/amletoflorio/MailShield">→ View repository</a></p>
 </details>
 
-<p align="right"><a href="https://github.com/amletoflorio/MailShield">→ View repository</a></p>
 </details>
 
 <details>

@@ -20,6 +20,21 @@ I believe that great software is invisible: it just works, scales, and stays mai
 ## `> ls ./projects`
 
 <details open>
+<summary>🛰️&nbsp; <b>WebSentinel</b> - <i>Self-hosted web page change monitoring with diffing & price tracking</i></summary>
+<br>
+
+A **self-hosted monitoring service** that watches web pages on a schedule, diffs each fetch against the last snapshot, and alerts only when something meaningful changes: scope checks to a CSS selector, ignore noisy regions by selector or regex, and set a minimum change threshold. Parses prices in both EU and US formats to track a series and fire drop/rise rules. Delivers to email, Telegram, Discord, Slack or webhook, with a DB-backed retry queue that survives restarts. One container, SQLite by default, full REST API.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<p align="right"><a href="https://github.com/amletoflorio/WebSentinel">→ View repository</a></p>
+</details>
+
+<details>
 <summary><img src="https://rapidapi-prod-apis.s3.amazonaws.com/6133a7a2-590c-4b6c-a022-df9ae5824079.jpg" width="20" height="20" style="vertical-align:middle">&nbsp; <b>Mail Shield</b> - <i>Real-time spam & phishing email classification API</i></summary>
 <br>
 
